@@ -1,3 +1,6 @@
 obj
 obj_debug
+obj_release
+talpa_debug
+talpa_release
 *.a
